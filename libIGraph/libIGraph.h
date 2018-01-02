@@ -73,8 +73,6 @@ typedef I8 int8_t;
 #include <windows.h>
 #include <io.h>
 
-#define snprintf _snprintf
-
 #else
 
 #include <sys/types.h>
