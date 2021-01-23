@@ -14,5 +14,5 @@ Builds
 *.svn
 *.opensdf
 *.sdf
-*.vcxproj
-*.vcxproj.filters
+
+.vs/
